@@ -6,4 +6,4 @@ Check out `cache.go` to see the interface.
 
 ## Practical Usage
 
-For more practical usage, check out the [local-cache library](https://github.com/panoplymedia/local-cache), which implements this interface.
+For more practical usage, check out the [omni-cache library](https://github.com/panoplymedia/omni-cache), which implements this interface.
